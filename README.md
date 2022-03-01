@@ -7,14 +7,30 @@ Mi primer avance del Sistema de consultas medicas realizado Java + Netbeans + My
 
 ## Contenido
 
-```✅Login con roles
-```✅Bitacora de usuario y de acceso
-```✅Registro de Citas
-```✅Registro de Pacientes
-```✅Registro de Médicos
-```✅Registro de áreas médicas
-```✅Consulta de citas
-```✅Agenda medicas
+```bash
+✅Login con roles
+```
+```bash
+✅Bitacora de usuario y de acceso
+```
+```bash
+✅Registro de Citas
+```
+```bash
+✅Registro de Pacientes
+```
+```bash
+✅Registro de Médicos
+```
+```bash
+✅Registro de áreas médicas
+```
+```bash
+✅Consulta de citas
+```
+```bash
+✅Agenda medicas
+```
 
 
 ## Instalacion
