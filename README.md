@@ -7,14 +7,14 @@ Mi primer avance del Sistema de consultas medicas realizado Java + Netbeans + My
 
 ## Contenido
 
-✅Login con roles
-✅Bitacora de usuario y de acceso
-✅Registro de Citas
-✅Registro de Pacientes
-✅Registro de Médicos
-✅Registro de áreas médicas
-✅Consulta de citas
-✅Agenda medicas
+```✅Login con roles
+```✅Bitacora de usuario y de acceso
+```✅Registro de Citas
+```✅Registro de Pacientes
+```✅Registro de Médicos
+```✅Registro de áreas médicas
+```✅Consulta de citas
+```✅Agenda medicas
 
 
 ## Instalacion
@@ -35,7 +35,7 @@ Interface
 ![image](https://user-images.githubusercontent.com/93888388/156081815-4ff8502d-507d-4be2-985a-20178e90000d.png)
 
 With information of day 24
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/93888388/156082523-fdbab42c-36a4-4201-b3ac-631df1c4068b.PNG)
 
 ### Notes
 Si desean contactar para dialogar acerca del proyecto les dejo un link [Linkedin](www.linkedin.com/in/fraiberth-bracho)
